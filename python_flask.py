@@ -1,3 +1,5 @@
 # Das ist ein Kommentar von Kevin
 # Das ist mein Kommentar von Dustin!
-# Ein alter Test.
+# Ein neuer Test
+# Ich lösche alles.
+# Noch ein versuch.
