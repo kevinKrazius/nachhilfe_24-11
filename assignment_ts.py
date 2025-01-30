@@ -1,14 +1,14 @@
-def begruessung name:
-print("Hallo, " + Name)
+def begruessung (name): #fehlende Klammer
+    print("Hallo,"  + name) # name gross geschrieben
 
-def addiere_zahlen(a, b)
+def addiere_zahlen(a, b): # fehlender :
     ergebnis = a + b
-    return ergebis 
+    return ergebnis # fehlender Buchstabe n
 
 def subtrahiere_zahlen(a, b):
-    return a - c
+    return a - b # falsche Variable
 
-def main()
+def main(): # fehlender :
     zahl1 = input("Gib eine Zahl ein: ")  
     zahl2 = input("Gib eine weitere Zahl ein: ")  
 
@@ -20,5 +20,5 @@ def main()
 
     begruessung("Max")  
 
-if __name__ = "__main__":
+if __name__ == "__main__": # = ist eine Zuweisung.  Vergleich benötigt ==
     main()
